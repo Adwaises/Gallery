@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".OpenFolderActivity">
+    <item
+        android:id="@+id/action_sort_files"
+        android:orderInCategory="100"
+        android:title="@string/action_sort_files"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/action_view_files"
+        android:orderInCategory="100"
+        android:title="@string/action_view_files"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/action_out_files"
+        android:orderInCategory="100"
+        android:title="@string/action_out_files"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/action_in_files"
+        android:orderInCategory="100"
+        android:title="@string/action_in_files"
+        app:showAsAction="never"/>
+
+
+    <!--<item-->
+        <!--android:id="@+id/action_delete_files"-->
+        <!--android:orderInCategory="100"-->
+        <!--android:title="@string/action_delete_files"-->
+        <!--app:showAsAction="never"/>-->
+</menu>

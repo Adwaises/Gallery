@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MyGallery</string>
+
+    <string name="action_sort">Сортировка: 1</string>
+    <string name="action_view">Вид: 1</string>
+
+    <string name="action_sort_files">Сортировка: 1</string>
+    <string name="action_view_files">Вид: 1</string>
+
+    <string name="action_in_files">Загрузить</string>
+    <string name="action_out_files">Выгрузить</string>
+    <string name="action_delete_files">Удалить</string>
+
+    <!--<string name="action_cat_female">Кошка</string>-->
+    <!--<string name="action_kitten">Котёнок</string>-->
+</resources>
